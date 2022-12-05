@@ -14,13 +14,13 @@
           "build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Pcf/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Pcf/1.20.3": {
         "type": "package",
         "build": {
           "build/_._": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Solution/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Solution/1.20.3": {
         "type": "package",
         "build": {
           "build/Microsoft.PowerApps.MSBuild.Solution.props": {},
@@ -58,13 +58,13 @@
           "build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Pcf/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Pcf/1.20.3": {
         "type": "package",
         "build": {
           "build/_._": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Solution/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Solution/1.20.3": {
         "type": "package",
         "build": {
           "build/Microsoft.PowerApps.MSBuild.Solution.props": {},
@@ -102,13 +102,13 @@
           "build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Pcf/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Pcf/1.20.3": {
         "type": "package",
         "build": {
           "build/_._": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Solution/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Solution/1.20.3": {
         "type": "package",
         "build": {
           "build/Microsoft.PowerApps.MSBuild.Solution.props": {},
@@ -146,13 +146,13 @@
           "build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Pcf/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Pcf/1.20.3": {
         "type": "package",
         "build": {
           "build/_._": {}
         }
       },
-      "Microsoft.PowerApps.MSBuild.Solution/1.16.6": {
+      "Microsoft.PowerApps.MSBuild.Solution/1.20.3": {
         "type": "package",
         "build": {
           "build/Microsoft.PowerApps.MSBuild.Solution.props": {},
@@ -517,10 +517,10 @@
         "microsoft.netframework.referenceassemblies.net462.nuspec"
       ]
     },
-    "Microsoft.PowerApps.MSBuild.Pcf/1.16.6": {
-      "sha512": "D3NH0U2sXyskO9eeg08hfZaXi5fCjrTMioK+4DzXUZtPFp8N+Iy8i2Y1rORpYA3HjqtsLEp/YbALsPMF9CNW3g==",
+    "Microsoft.PowerApps.MSBuild.Pcf/1.20.3": {
+      "sha512": "Fu6tvm4S20FLlqDOF5G6JGJ7s1bmMfK0MtOxgkXatqnWDD6aJLio3KvATO1HQzmo18Z2sWHrULQ1cXVLnWm0PA==",
       "type": "package",
-      "path": "microsoft.powerapps.msbuild.pcf/1.16.6",
+      "path": "microsoft.powerapps.msbuild.pcf/1.20.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -528,17 +528,22 @@
         "LICENSE.txt",
         "build/Microsoft.PowerApps.MSBuild.Pcf.props",
         "build/Microsoft.PowerApps.MSBuild.Pcf.targets",
-        "microsoft.powerapps.msbuild.pcf.1.16.6.nupkg.sha512",
+        "microsoft.powerapps.msbuild.pcf.1.20.3.nupkg.sha512",
         "microsoft.powerapps.msbuild.pcf.nuspec",
         "tasks/Microsoft.PowerApps.MSBuild.Pcf.tasks",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.dll",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.pdb",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.tasks",
         "tasks/net472/Newtonsoft.Json.dll",
+        "tasks/net472/System.Drawing.Common.dll",
         "tasks/net472/ppbtTelemetryRecorder/Microsoft.ApplicationInsights.dll",
         "tasks/net472/ppbtTelemetryRecorder/Microsoft.PowerPlatform.Tooling.BatchedTelemetry.dll",
         "tasks/net472/ppbtTelemetryRecorder/Newtonsoft.Json.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Buffers.dll",
         "tasks/net472/ppbtTelemetryRecorder/System.Diagnostics.DiagnosticSource.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Memory.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Numerics.Vectors.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Runtime.CompilerServices.Unsafe.dll",
         "tasks/net472/ppbtTelemetryRecorder/System.ValueTuple.dll",
         "tasks/net472/ppbtTelemetryRecorder/pacTelemetryUpload.exe",
         "tasks/net472/ppbtTelemetryRecorder/pacTelemetryUpload.exe.config",
@@ -549,7 +554,9 @@
         "tasks/net5.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.dll",
         "tasks/net5.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.pdb",
         "tasks/net5.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.tasks",
+        "tasks/net5.0/Microsoft.Win32.SystemEvents.dll",
         "tasks/net5.0/Newtonsoft.Json.dll",
+        "tasks/net5.0/System.Drawing.Common.dll",
         "tasks/net5.0/ppbtTelemetryRecorder/Microsoft.ApplicationInsights.dll",
         "tasks/net5.0/ppbtTelemetryRecorder/Microsoft.PowerPlatform.Tooling.BatchedTelemetry.dll",
         "tasks/net5.0/ppbtTelemetryRecorder/Newtonsoft.Json.dll",
@@ -557,13 +564,19 @@
         "tasks/net5.0/ppbtTelemetryRecorder/pacTelemetryUpload.runtimeconfig.json",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.deps.json",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll",
+        "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll.config",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.pdb",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.runtimeconfig.json",
+        "tasks/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "tasks/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll",
+        "tasks/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll",
         "tasks/net6.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.deps.json",
         "tasks/net6.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.dll",
         "tasks/net6.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.pdb",
         "tasks/net6.0/Microsoft.PowerPlatform.MSBuild.Telemetry.Tasks.tasks",
+        "tasks/net6.0/Microsoft.Win32.SystemEvents.dll",
         "tasks/net6.0/Newtonsoft.Json.dll",
+        "tasks/net6.0/System.Drawing.Common.dll",
         "tasks/net6.0/ppbtTelemetryRecorder/Microsoft.ApplicationInsights.dll",
         "tasks/net6.0/ppbtTelemetryRecorder/Microsoft.PowerPlatform.Tooling.BatchedTelemetry.dll",
         "tasks/net6.0/ppbtTelemetryRecorder/Newtonsoft.Json.dll",
@@ -571,14 +584,18 @@
         "tasks/net6.0/ppbtTelemetryRecorder/pacTelemetryUpload.runtimeconfig.json",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.deps.json",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll",
+        "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll.config",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.pdb",
-        "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.runtimeconfig.json"
+        "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.runtimeconfig.json",
+        "tasks/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
+        "tasks/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll",
+        "tasks/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll"
       ]
     },
-    "Microsoft.PowerApps.MSBuild.Solution/1.16.6": {
-      "sha512": "SYjajc4rx/bF+CD4i+S+VRN8Ao4R3516tdbAA0eR+n61FjIZdXslu0ird7KDsl0KWLLejHnvILHoYHVx5N0dxw==",
+    "Microsoft.PowerApps.MSBuild.Solution/1.20.3": {
+      "sha512": "bxESVPwNBVf2B8ID9HJ+ZIopNt1V3HyPtcD4V9OdASC6phXedZFsdPUB2qMag/byZcGuccXgrs1GsOliWDLBsQ==",
       "type": "package",
-      "path": "microsoft.powerapps.msbuild.solution/1.16.6",
+      "path": "microsoft.powerapps.msbuild.solution/1.20.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -588,9 +605,11 @@
         "build/Microsoft.PowerApps.MSBuild.Solution.targets",
         "buildMultiTargeting/Microsoft.PowerApps.MSBuild.Solution.props",
         "buildMultiTargeting/Microsoft.PowerApps.MSBuild.Solution.targets",
-        "microsoft.powerapps.msbuild.solution.1.16.6.nupkg.sha512",
+        "microsoft.powerapps.msbuild.solution.1.20.3.nupkg.sha512",
         "microsoft.powerapps.msbuild.solution.nuspec",
         "tasks/Microsoft.PowerApps.MSBuild.Solution.tasks",
+        "tasks/net472/Microsoft.Deployment.Compression.Cab.dll",
+        "tasks/net472/Microsoft.Deployment.Compression.dll",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Solution.Tasks.dll",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Solution.Tasks.pdb",
         "tasks/net472/Microsoft.PowerPlatform.MSBuild.Solution.Tasks.tasks",
@@ -600,6 +619,7 @@
         "tasks/net472/Newtonsoft.Json.dll",
         "tasks/net472/SolutionPackagerLib.dll",
         "tasks/net472/System.Configuration.ConfigurationManager.dll",
+        "tasks/net472/System.Drawing.Common.dll",
         "tasks/net472/System.IO.Packaging.dll",
         "tasks/net472/System.Security.AccessControl.dll",
         "tasks/net472/System.Security.Permissions.dll",
@@ -608,7 +628,11 @@
         "tasks/net472/ppbtTelemetryRecorder/Microsoft.ApplicationInsights.dll",
         "tasks/net472/ppbtTelemetryRecorder/Microsoft.PowerPlatform.Tooling.BatchedTelemetry.dll",
         "tasks/net472/ppbtTelemetryRecorder/Newtonsoft.Json.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Buffers.dll",
         "tasks/net472/ppbtTelemetryRecorder/System.Diagnostics.DiagnosticSource.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Memory.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Numerics.Vectors.dll",
+        "tasks/net472/ppbtTelemetryRecorder/System.Runtime.CompilerServices.Unsafe.dll",
         "tasks/net472/ppbtTelemetryRecorder/System.ValueTuple.dll",
         "tasks/net472/ppbtTelemetryRecorder/pacTelemetryUpload.exe",
         "tasks/net472/ppbtTelemetryRecorder/pacTelemetryUpload.exe.config",
@@ -639,6 +663,7 @@
         "tasks/net5.0/ppbtTelemetryRecorder/pacTelemetryUpload.runtimeconfig.json",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.deps.json",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll",
+        "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll.config",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.pdb",
         "tasks/net5.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.runtimeconfig.json",
         "tasks/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
@@ -670,6 +695,7 @@
         "tasks/net6.0/ppbtTelemetryRecorder/pacTelemetryUpload.runtimeconfig.json",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.deps.json",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll",
+        "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.dll.config",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.pdb",
         "tasks/net6.0/ppbtTelemetryRecorder/ppbtTelemetryRecorder.runtimeconfig.json",
         "tasks/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll",
@@ -693,19 +719,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {}
+    "C:\\Users\\marti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+      "projectUniqueName": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
       "projectName": "PowerDynCustomLabel",
-      "projectPath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\obj\\",
+      "projectPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -713,14 +739,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/SEB-CSC/fb69f6c9-bb85-4ada-a672-4959b573e9fd/_packaging/SEB.Nuget/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net462": {
           "targetAlias": "net462",
           "projectReferences": {
-            "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
-              "projectPath": "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj"
+            "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
+              "projectPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj"
             }
           }
         }

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="PowerDynControls" constructor="PowerDynCustomLabel" version="0.1.07" display-name-key="PowerDynCustomLabel" description-key="This is a custom control that allows you to update the label for Text field types. With the ability to support SingleLine fields and Multiple fields, you are able to write as long of a label as you need for a field!" control-type="standard">
+  <control namespace="PowerDynControls" constructor="PowerDynCustomLabel" version="0.1.07" display-name-key="Itau.PowerDynCustomLabel" description-key="This Control provides a custom Label for Fields and Model Driven Forms, develop by Ricardo Martins Costa and Daniel Ribeiro da Silva"  control-type="standard">
     <property name="fieldNameProperty" display-name-key="Field Name" description-key="Name of the field" of-type-group="label" usage="bound" required="false" />    
     <type-group name="label">
         <type>SingleLine.Text</type>

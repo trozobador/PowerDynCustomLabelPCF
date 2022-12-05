@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj": {}
+    "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj": {}
   },
   "projects": {
-    "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
+    "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj",
+        "projectUniqueName": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj",
         "projectName": "PowerDynCustomLabelPCF",
-        "projectPath": "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Controls\\PowerDynCustomLabelPCF\\obj\\",
+        "projectPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj",
+        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SEB-CSC/fb69f6c9-bb85-4ada-a672-4959b573e9fd/_packaging/SEB.Nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net462": {
@@ -54,17 +55,17 @@
         }
       }
     },
-    "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj": {
+    "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+        "projectUniqueName": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
         "projectName": "PowerDynCustomLabel",
-        "projectPath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\obj\\",
+        "projectPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+        "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,14 +73,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SEB-CSC/fb69f6c9-bb85-4ada-a672-4959b573e9fd/_packaging/SEB.Nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net462": {
             "targetAlias": "net462",
             "projectReferences": {
-              "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
-                "projectPath": "C:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj"
+              "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj": {
+                "projectPath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF.pcfproj"
               }
             }
           }

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tcRX6tOQTL4HDXHpn11agJOS1HPjOqdidcFQhm4QFcXOftKRaZlpOMWiXjrvUOXKO+Qspox0laQeKvH27vsFTw==",
+  "dgSpecHash": "5p3eLL5Ghv7RlQ/3zj11Ygh0u/HMa2SldQ2sPU3T+8YYqfb4QrsB0vDRg/yKLONl3RqNe1HSo97VtJx8vo6tCQ==",
   "success": true,
-  "projectFilePath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+  "projectFilePath": "C:\\Users\\marti\\source\\repos\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.16.6\\microsoft.powerapps.msbuild.pcf.1.16.6.nupkg.sha512",
-    "C:\\Users\\david\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.16.6\\microsoft.powerapps.msbuild.solution.1.16.6.nupkg.sha512"
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.20.3\\microsoft.powerapps.msbuild.pcf.1.20.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.20.3\\microsoft.powerapps.msbuild.solution.1.20.3.nupkg.sha512"
   ],
   "logs": []
 }
