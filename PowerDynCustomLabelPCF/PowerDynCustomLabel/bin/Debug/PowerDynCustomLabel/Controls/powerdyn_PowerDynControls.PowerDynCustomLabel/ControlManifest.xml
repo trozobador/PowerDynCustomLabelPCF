@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="PowerDynControls" constructor="PowerDynCustomLabel" version="0.1.07" display-name-key="Itau.PowerDynCustomLabel" description-key="This Control provides a custom Label for Fields and Model Driven Forms, develop by Ricardo Martins Costa and Daniel Ribeiro da Silva" control-type="standard" api-version="1.2.1">
+    <property name="fieldNameProperty" display-name-key="Field Name" description-key="Name of the field" of-type-group="label" usage="bound" required="false"/>
+    <property name="customLabelProperty" display-name-key="Custom Label Text" description-key="Please enter the text that you want to appear for your custom label. Note: HTML markup is supported." of-type-group="label" usage="input" required="true"/>
+    <type-group name="label">
+      <type>SingleLine.Text</type>
+      <type>SingleLine.TextArea</type>
+      <type>Multiple</type>
+    </type-group>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/main.css" order="1"/>
+    </resources>
+    <built-by name="pac" version="1.16.6"/>
+  </control>
+</manifest>
